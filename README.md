@@ -1,15 +1,10 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Muheeb Khan👋<a href="https://hammad-air.github.io/hammad/"></h1>
+    <h1> Hi there, I'm Muheeb Khan👋<a href="https://Muheeb-Ai.github.io/Muheeb/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
-	
-<!-- ## My WordPress Course 
-- [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
- -->
-
-	
+<a href="https://github.com/Muheeb-Ai"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+		
 👨‍💻 AI Engineer CargoAI
 	
 💸 Help 80+ Clients via Generative AI & Automation
@@ -86,15 +81,4 @@
  </p>
  
 <br>
-- 👋 Hi, I’m @Muheeb-Ai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Muheeb-Ai/Muheeb-Ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
